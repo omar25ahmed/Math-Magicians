@@ -33,7 +33,7 @@
 ## Getting Started
 After Cloning
 
-```
+`
 npm install
 npm
 
@@ -42,7 +42,7 @@ npm
 **To get a local copy up and running follow these simple steps.**
 - you can clone this repo by typing `git clone git@github.com:omar25ahmed/Math-Magicians`.
 - type `cd ToDo List` to access the project on terminal.
-
+`
 ## Authors
 
 👤 **Omar Ragheb**
