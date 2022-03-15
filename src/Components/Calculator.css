@@ -27,7 +27,7 @@
 
 .row button {
   width: 25%;
-  background-color: #E1E0E1;
+  background-color: #e1e0e1;
   border: 1px solid lightgrey;
   height: 3.5rem;
   cursor: pointer;
@@ -38,12 +38,13 @@
 }
 
 .operations {
-  background-color: #F5903F !important;
+  background-color: #f5903f !important;
 }
 
 .operations:hover {
   background-color: orange !important;
 }
+
 .last-btn {
   width: 50% !important;
 }
