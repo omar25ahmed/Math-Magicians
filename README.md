@@ -35,13 +35,13 @@ After Cloning
 
 `
 npm install
-npm
+npm start
 
-**To Create A Portfolio from this Repository feel free to contact me.**
+**To Create A Calculator from this Repository feel free to contact me.**
 
 **To get a local copy up and running follow these simple steps.**
 - you can clone this repo by typing `git clone git@github.com:omar25ahmed/Math-Magicians`.
-- type `cd ToDo List` to access the project on terminal.
+- type `cd Math-Magicians` to access the project on terminal.
 `
 ## Authors
 
