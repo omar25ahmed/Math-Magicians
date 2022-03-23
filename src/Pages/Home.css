@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@2,100&display=swap');
+
+.home-page {
+  padding: 20px;
+  height: 100vh;
+  background-color: lightgrey;
+}
+
+.home-page h1 {
+  font-family: 'Permanent Marker', cursive;
+  color: #2586a2;
+}
+
+.home-page p {
+  line-height: 25px;
+  font-size: 20px;
+  font-family: 'Lato', sans-serif;
+}

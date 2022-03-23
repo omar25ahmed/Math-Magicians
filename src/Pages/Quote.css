@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@2,100&display=swap');
+
+.quote-page {
+  height: calc(100vh - 100px);
+  display: flex;
+  align-items: center;
+  background-color: lightgrey;
+}
+
+blockquote {
+  margin: 0;
+}
+
+blockquote p {
+  padding: 15px;
+  background: #eee;
+  border-radius: 5px;
+  font-family: 'Lato', sans-serif;
+}
+
+figcaption,
+figcaption cite {
+  font-family: 'Permanent Marker', cursive;
+  color: #2586a2;
+  font-size: 25px;
+}

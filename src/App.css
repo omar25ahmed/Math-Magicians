@@ -1,4 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
 body {
   margin: 0;
   padding: 0;
+}
+
+.navbar {
+  padding: 0 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  flex-wrap: wrap;
+}
+
+.navbar h1 {
+  color: #2586a2;
+  border: 3px solid #2586a2;
+  padding: 10px;
+  border-radius: 10px;
+  font-family: 'Satisfy', cursive;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.u-btn {
+  color: #fff;
+  border: 3px solid #2586a2;
+  border-radius: 15px;
+  padding: 3px 7px;
+  background-color: #2586a2;
+  font-family: 'Satisfy', cursive;
+}
+
+.btns {
+  padding: 15px;
 }
