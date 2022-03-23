@@ -1,5 +1,18 @@
-.calculator {
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.calculator-page {
+  padding: 20px;
+  background-color: lightgrey;
   height: 100vh;
+}
+
+.calculator-page h1 {
+  font-family: 'Permanent Marker', cursive;
+  color: #2586a2;
+}
+
+.calculator {
+  height: auto;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -7,6 +20,7 @@
   max-width: 400px;
   margin: auto;
   box-sizing: border-box;
+  border: 1px solid;
 }
 
 .result {
@@ -38,11 +52,11 @@
 }
 
 .operations {
-  background-color: #f5903f !important;
+  background-color: #2586a2 !important;
 }
 
 .operations:hover {
-  background-color: orange !important;
+  background-color: #0c4a5c !important;
 }
 
 .last-btn {
