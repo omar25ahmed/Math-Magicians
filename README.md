@@ -12,7 +12,7 @@
 
 ## Live Demo
 [Heroku](https://peaceful-bayou-47434.herokuapp.com/calculator)
-
+[Netlify](https://peaceful-macaron-c64c08.netlify.app/)
 
 
 
