@@ -11,7 +11,7 @@
 
 
 ## Live Demo
-[Heruko](https://peaceful-bayou-47434.herokuapp.com/calculator)
+[Heroku](https://peaceful-bayou-47434.herokuapp.com/calculator)
 
 
 
