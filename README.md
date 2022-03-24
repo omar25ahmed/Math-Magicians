@@ -11,7 +11,7 @@
 
 
 ## Live Demo
-[Will be ready when the project is finished](https://omar25ahmed.github.io/ToDo-List/)
+[Heruko](https://peaceful-bayou-47434.herokuapp.com/calculator)
 
 
 
